@@ -1,0 +1,7 @@
+# theme = catppuccin-mocha
+theme = CutiePro
+
+mouse-hide-while-typing = true
+
+window-save-state = always
+copy-on-select = "clipboard"
